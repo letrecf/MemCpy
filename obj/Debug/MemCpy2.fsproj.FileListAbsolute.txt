@@ -1,0 +1,8 @@
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\bin\Debug\MemCpy2.exe.config
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\bin\Debug\MemCpy2.XML
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\bin\Debug\MemCpy2.exe
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\bin\Debug\MemCpy2.pdb
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\bin\Debug\FSharp.Core.dll
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\bin\Debug\FSharp.Core.xml
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\obj\Debug\MemCpy2.exe
+C:\Users\glo\Documents\Visual Studio 2013\Projects\MemCpy2\MemCpy2\obj\Debug\MemCpy2.pdb
